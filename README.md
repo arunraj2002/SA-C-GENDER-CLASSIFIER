@@ -21,8 +21,8 @@
 ```
 /*
 Program to implement 
-Developed by   :Vincent isaac jeyaraj J
-RegisterNumber :212220230060  
+Developed by   :R Arunraj 
+RegisterNumber :212220230004
 */
 ```
 ```python
@@ -83,10 +83,15 @@ pd.DataFrame(history.history).plot()
 
 
 ## OUTPUT:
+![Screenshot (108)](https://user-images.githubusercontent.com/75235747/174597238-b15a62e4-9e6c-4f6c-9cd3-6d68a183bc8d.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/75235747/174597247-417df8c1-5373-43d8-8436-4118e087e9d4.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/75235747/174597345-1d0136a9-56d8-42d2-9a1d-305b50952c74.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/75235747/174597406-fee0a232-fbf9-4e07-8106-3861ae281dca.png)
 
 
 
 DEMO VIDEO YOUTUBE LINK:
+https://youtu.be/GHRYrYAraMk
 
 
 ## RESULT: 
